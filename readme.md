@@ -2,6 +2,8 @@
 
 This project explores the demographic characteristics of professional football players using a large and diverse dataset. The analysis focuses on understanding player profiles based on age, height, weight, nationality, preferred foot, and body type.
 
+> 📊 This is part of a **multi-project series** based on a massive dataset scraped from Transfermarkt and available on Kaggle. Due to the dataset’s diverse nature, this repository focuses specifically on **player demographic analysis**. For other analysis projects I’ve created, please visit the [Footballer-Analysis-Series](https://github.com/ByteBard58/Footballer-Analysis-Series) repository, where I’ve listed all of them.
+
 ## 📌 Objective
 
 To examine the physical and national distribution of football players, identifying trends in age, physique, and global representation.
